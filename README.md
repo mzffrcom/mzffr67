@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-3b5998?style=quare&labelColor=3b5998&logo=Facebook&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Instagram-405DE6?style=flat-quare&labelColor=405DE6&logo=Instagram&logoColor=white&link=link)](link) 
+[![Medium Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=Instagram&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Linkedin-FF9800?style=flat-quare&labelColor=FF9800&logo=Linkedin&logoColor=white&link=link)](link)
 
 <!--
