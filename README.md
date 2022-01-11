@@ -1,7 +1,5 @@
 <img src="http://www.mzffr.com/mzffr_logo.png" width="auto">
 
-:pushpin: Sosyal Medya Hesaplarım
-
 
 [![Facebook ](https://img.shields.io/badge/-Facebook-3b5998?style=quare&labelColor=3b5998&logo=Facebook&logoColor=white&link=link)](https://www.facebook.com/mzffrcom) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=link)](https://www.twitter.com/mzffrcom) 
