@@ -8,9 +8,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2867B2?style=flat-quare&labelColor=2867B2&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mzffrcom)
 
 
- 
-█▀▄▀█ █░█ ▀█ ▄▀█ █▀▀ █▀▀ █▀▀ █▀█   █▀▄ ▄▀█ █▀▀ █░░ █ █▀█ █▀▀ █░░ █░█
-█░▀░█ █▄█ █▄ █▀█ █▀░ █▀░ ██▄ █▀▄   █▄▀ █▀█ █▄█ █▄▄ █ █▄█ █▄█ █▄▄ █▄█                                                          
+                                     .__          
+  ____ ___  ________    _____ ______ |  |   ____  
+_/ __ \\  \/  /\__  \  /     \\____ \|  | _/ __ \ 
+\  ___/ >    <  / __ \|  Y Y  \  |_> >  |_\  ___/ 
+ \___  >__/\_ \(____  /__|_|  /   __/|____/\___  >
+     \/      \/     \/      \/|__|             \/                                                         
 
 
 <!--
